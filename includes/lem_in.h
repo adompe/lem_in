@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   lem_in.h                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ddela-cr <ddela-cr@student.42.fr>          +#+  +:+       +#+        */
+/*   By: adompe <adompe@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2016/06/03 13:50:29 by ddela-cr          #+#    #+#             */
-/*   Updated: 2016/06/24 12:14:55 by ddela-cr         ###   ########.fr       */
+/*   Created: 2016/09/26 15:33:19 by adompe            #+#    #+#             */
+/*   Updated: 2016/09/26 15:33:23 by adompe           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,7 @@
 # include <stdlib.h>
 # include "libft.h"
 # include "ft_printf.h"
-# include "get_next_line.h" 
+# include "get_next_line.h"
 
 # define INITIAL_WEIGHT	-1
 

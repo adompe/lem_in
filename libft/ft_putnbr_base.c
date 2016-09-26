@@ -14,7 +14,9 @@
 
 void	ft_putnbr_base(long long n, int base)
 {
-	char nb[] = "0123456789abcdef";
+	char *nb;
+
+	nb = ft_strdup("0123456789abcdef");
 	if (n == -2147483648)
 	{
 		ft_putstr("-2147483648");
